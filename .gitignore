@@ -77,42 +77,6 @@ coverage/
 *.editorconfig
 
 # 其他
-*.htaccess
-*.htpasswd
-*.json
-*.xml
-*.yml
-*.yaml
-*.ini
-*.cfg
-*.conf
-*.properties
-*.sh
-*.bat
-*.cmd
-*.ps1
-*.psm1
-*.pssc
-*.pssession
-*.psd1
-*.ps1xml
-*.cdxml
-*.pfx
-*.pem
-*.cer
-*.crt
-*.key
-*.p12
-*.p7b
-*.p7c
-*.p7r
-*.p7s
-*.p10
-*.p12
-*.p7b
-*.p7c
-*.p7r
-*.p7s
 
 # Node.js
 node_modules/

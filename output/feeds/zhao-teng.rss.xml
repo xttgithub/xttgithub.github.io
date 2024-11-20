@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>小腾腾的小站 - 赵腾</title><link>/</link><description>记录技术，分享经验</description><lastBuildDate>Mon, 18 Nov 2024 10:25:00 +0800</lastBuildDate><item><title>带你快速写出简洁优秀的博客</title><link>/2024/11/dai-ni-kuai-su-xie-chu-jian-ji-you-xiu-de-bo-ke.html</link><description>&lt;h2&gt;简介&lt;/h2&gt;
+&lt;p&gt;本文介绍如何快速写出简洁优秀的博客。&lt;/p&gt;
+&lt;h2&gt;核心内容&lt;/h2&gt;
+&lt;p&gt;想写出简洁优秀的博客，必须包含以下几个部分：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;标题（Title）&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;主题明确 …&lt;/li&gt;&lt;/ol&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">赵腾</dc:creator><pubDate>Mon, 18 Nov 2024 10:25:00 +0800</pubDate><guid isPermaLink="false">tag:None,2024-11-18:/2024/11/dai-ni-kuai-su-xie-chu-jian-ji-you-xiu-de-bo-ke.html</guid><category>技术</category><category>Python</category><category>编程</category></item><item><title>Feign的关键点</title><link>/2024/11/feignde-guan-jian-dian.html</link><description>&lt;h1&gt;Feign&lt;/h1&gt;
+&lt;p&gt;Feign 是一个声明式的 Web 服务客户端，它简化了 HTTP 客户端的开发，使得调用 RESTful 服务更加方便。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="头像" src="/images/profile.png"&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">赵腾</dc:creator><pubDate>Mon, 18 Nov 2024 00:00:00 +0800</pubDate><guid isPermaLink="false">tag:None,2024-11-18:/2024/11/feignde-guan-jian-dian.html</guid><category>技术</category><category>Python</category><category>编程</category></item></channel></rss>
