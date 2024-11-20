@@ -129,6 +129,5 @@ docker-compose.yml
 .cache/
 .cachedir/
 
-# 构建文件不提交
-output
+
 
