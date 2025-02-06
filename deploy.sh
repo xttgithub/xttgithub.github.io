@@ -16,7 +16,7 @@ git add .
 git commit -m "Update site"
 
 # 推送到 GitHub Pages
-git push -f https://github.com/xttgithub/xttgithub.github.io.git master:gh-pages
+git push -f https://github.com/xttgithub/xttgithub.github.io.git master:master
 
 # 返回项目根目录
 cd ..
