@@ -2,6 +2,7 @@
 """
 Invoke tasks. Run 'invoke --help' for help.
 执行命令：invoke clean/build/publish等
+远程部署到github命令 .\deploy.sh
 """
 
 import os
